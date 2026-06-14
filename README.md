@@ -195,14 +195,57 @@ Building production-level web applications and analytics solutions while continu
 
 ---
 
-## 📜 Certifications & Credentials
+## 📜 Certifications & Professional Credentials
 
-### Currently Pursuing
-- 🔄 **AWS Solutions Architect** (In Progress)
-- 🔄 **Google Cloud Associate** (In Progress)
-- 🔄 **Data Analytics Professional** (In Progress)
+### ✅ **Completed Certifications**
 
-### Coding Profiles
+<div align="center">
+
+#### 🌐 Web Development
+<a href="https://www.credly.com/badges/8983bf42-3ba4-496e-ac30f3ba5a95a2c7/public_url" target="_blank">
+<img src="https://img.shields.io/badge/🏅_Excellence-Technology_2025-6D28D9?style=for-the-badge" alt="Web Development Excellence - Technology 2025"/>
+</a>
+
+#### 📊 Data Analytics
+<a href="https://www.credly.com/badges/8983bf42-3ba4-496e-ac30f3ba5a95a2c7/public_url" target="_blank">
+<img src="https://img.shields.io/badge/🏅_Data_Analytics-Cisco_Networking-7C3AED?style=for-the-badge&logo=cisco" alt="Data Analytics - Cisco Networking"/>
+</a>
+
+#### 🎨 Responsive Web Design
+<a href="https://www.freecodecamp.org/certification/fcc-2238f653-d7c9-436e-b6f51477e8aca3be/responsive-web-design" target="_blank">
+<img src="https://img.shields.io/badge/🏅_Responsive_Web_Design-freeCodeCamp-4F46E5?style=for-the-badge&logo=freecodecamp" alt="Responsive Web Design - freeCodeCamp"/>
+</a>
+
+#### 🐍 Hello Python
+<a href="https://coursera.org/share/b4f3ea9bacce7c3eb14cc84372a904ec" target="_blank">
+<img src="https://img.shields.io/badge/🏅_Hello_Python-Google_Coursera-6366F1?style=for-the-badge&logo=coursera" alt="Hello Python - Google Coursera"/>
+</a>
+
+#### 🤖 Foundation of Prompt Engineering
+<a href="https://www.aws.training/" target="_blank">
+<img src="https://img.shields.io/badge/🏅_Prompt_Engineering-AWS_Skill_Builder-FF9900?style=for-the-badge&logo=amazon-aws" alt="Foundation of Prompt Engineering - AWS Skill Builder"/>
+</a>
+
+#### 📈 Data Analytics Job Simulation
+<a href="https://www.theforage.com/completionertificates/9PBTqmSxAf6zZTseP/io9DzWKe3PTsiS6GG_9PBTqmSxAf6zZTseP_tCYDiEqDAb7aZHg32_1780254357643_completion_certificate.pdf" target="_blank">
+<img src="https://img.shields.io/badge/🏅_Data_Analytics_Simulation-Deloitte-2F8D46?style=for-the-badge" alt="Data Analytics Job Simulation - Deloitte"/>
+</a>
+
+</div>
+
+### 🔄 **Currently Pursuing**
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/📚_AWS_Solutions_Architect-In_Progress-FF9900?style=for-the-badge&logo=amazon-aws"/>
+<img src="https://img.shields.io/badge/📚_Google_Cloud_Associate-In_Progress-4285F4?style=for-the-badge&logo=google-cloud"/>
+<img src="https://img.shields.io/badge/📚_Advanced_Data_Analytics-In_Progress-7C3AED?style=for-the-badge"/>
+
+</div>
+
+---
+
+## 🔗 Coding & Learning Profiles
 <p align="center">
   <a href="https://leetcode.com/shivam11191/" target="_blank">
     <img src="https://img.shields.io/badge/🔗_LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
