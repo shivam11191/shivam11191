@@ -265,16 +265,6 @@ Building production-level web applications and analytics solutions while continu
 
 ---
 
-## 🥇 GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=shivam11191&theme=tokyonight&no-frame=true&row=2&column=4&margin-w=15&margin-h=15"/>
-
-</div>
-
----
-
 ## 📈 Contribution Activity
 
 <div align="center">
