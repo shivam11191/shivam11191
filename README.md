@@ -33,6 +33,16 @@
 
 ---
 
+## 💭 Daily Inspiration
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Daily dev quote" />
+
+</div>
+
+---
+
 ## 🎯 About Me
 
 I'm a **Software Engineer and Data Enthusiast** passionate about building **scalable web applications**, **data-driven solutions**, and **AI-powered products** that create real impact.
@@ -250,6 +260,18 @@ Building production-level web applications and analytics solutions while continu
 ## 🐍 Contribution Snake Animation
 
 <img width="100%" src="https://raw.githubusercontent.com/shivam11191/shivam11191/output/github-contribution-grid-snake-dark.svg"/>
+
+---
+
+## 💻 GitHub Summary Cards
+
+<div align="center">
+
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/repos/shivam11191?theme=tokyonight" alt="Top repositories"/>
+
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/most-commit-language/shivam11191?theme=tokyonight" alt="Most used languages"/>
+
+</div>
 
 ---
 
