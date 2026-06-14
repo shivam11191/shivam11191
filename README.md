@@ -202,7 +202,7 @@ Building production-level web applications and analytics solutions while continu
 <div align="center">
 
 #### 🌐 Web Development
-<a href="https://www.credly.com/badges/8983bf42-3ba4-496e-ac30f3ba5a95a2c7/public_url" target="_blank">
+<a>
 <img src="https://img.shields.io/badge/🏅_Excellence-Technology_2025-6D28D9?style=for-the-badge" alt="Web Development Excellence - Technology 2025"/>
 </a>
 
@@ -222,7 +222,7 @@ Building production-level web applications and analytics solutions while continu
 </a>
 
 #### 🤖 Foundation of Prompt Engineering
-<a href="https://www.aws.training/" target="_blank">
+<a>
 <img src="https://img.shields.io/badge/🏅_Prompt_Engineering-AWS_Skill_Builder-FF9900?style=for-the-badge&logo=amazon-aws" alt="Foundation of Prompt Engineering - AWS Skill Builder"/>
 </a>
 
@@ -233,30 +233,15 @@ Building production-level web applications and analytics solutions while continu
 
 </div>
 
-### 🔄 **Currently Pursuing**
 
-<div align="center">
+
+<!-- <div align="center">
 
 <img src="https://img.shields.io/badge/📚_AWS_Solutions_Architect-In_Progress-FF9900?style=for-the-badge&logo=amazon-aws"/>
 <img src="https://img.shields.io/badge/📚_Google_Cloud_Associate-In_Progress-4285F4?style=for-the-badge&logo=google-cloud"/>
 <img src="https://img.shields.io/badge/📚_Advanced_Data_Analytics-In_Progress-7C3AED?style=for-the-badge"/>
 
-</div>
-
----
-
-## 🔗 Coding & Learning Profiles
-<p align="center">
-  <a href="https://leetcode.com/shivam11191/" target="_blank">
-    <img src="https://img.shields.io/badge/🔗_LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-  </a>
-  <a href="https://www.geeksforgeeks.org/" target="_blank">
-    <img src="https://img.shields.io/badge/🔗_GeeksforGeeks-Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
-  </a>
-  <a href="https://www.hackerrank.com/" target="_blank">
-    <img src="https://img.shields.io/badge/🔗_HackerRank-Profile-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black"/>
-  </a>
-</p>
+</div> -->
 
 ---
 
@@ -303,18 +288,6 @@ Building production-level web applications and analytics solutions while continu
 ## 🐍 Contribution Snake Animation
 
 <img width="100%" src="https://raw.githubusercontent.com/shivam11191/shivam11191/output/github-contribution-grid-snake-dark.svg"/>
-
----
-
-## 💻 GitHub Summary Cards
-
-<div align="center">
-
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/repos/shivam11191?theme=tokyonight" alt="Top repositories"/>
-
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/most-commit-language/shivam11191?theme=tokyonight" alt="Most used languages"/>
-
-</div>
 
 ---
 
