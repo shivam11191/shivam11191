@@ -1,354 +1,305 @@
-# <div align="center">
+<div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:6D28D9,50:7C3AED,100:4F46E5&text=Shivam%20Prakash&fontColor=ffffff&fontSize=45&fontAlignY=38&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:6D28D9,50:7C3AED,100:4F46E5&text=Shivam%20Prakash&fontColor=ffffff&fontSize=50&fontAlignY=40&animation=fadeIn&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins\&weight=600\&size=28\&pause=1000\&color=8B5CF6\&center=true\&vCenter=true\&width=900\&lines=Software+Engineer;Web+Developer;Frontend+Developer;Data+Analyst;Building+Scalable+Digital+Products)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=32&pause=1000&color=8B5CF6&center=true&vCenter=true&width=900&lines=💻+Software+Engineer;🚀+Full+Stack+Developer;📊+Data+Analytics+Enthusiast;🤖+AI%2FML+Innovator)](https://github.com/shivam11191)
 
-<br>
+<br/>
 
-![](https://img.shields.io/badge/MCA-Student-6D28D9?style=for-the-badge)
-![](https://img.shields.io/badge/Data-Analytics-7C3AED?style=for-the-badge)
-![](https://img.shields.io/badge/Web-Development-4F46E5?style=for-the-badge)
-![](https://img.shields.io/badge/Location-India-6366F1?style=for-the-badge)
+![MCA Student](https://img.shields.io/badge/🎓_MCA-Student-6D28D9?style=for-the-badge)
+![Data Analytics](https://img.shields.io/badge/📊_Data-Analytics-7C3AED?style=for-the-badge)
+![Web Development](https://img.shields.io/badge/🌐_Web-Development-4F46E5?style=for-the-badge)
+![Location](https://img.shields.io/badge/📍_Location-India-6366F1?style=for-the-badge)
 
-<br>
+<br/>
 
-<a href="https://shivam11191.github.io/portfolio/">
-<img src="https://img.shields.io/badge/Portfolio-Visit_Now-6D28D9?style=for-the-badge&logo=vercel&logoColor=white"/>
+<a href="https://shivam11191.github.io/portfolio/" target="_blank">
+<img src="https://img.shields.io/badge/🌟_Portfolio-Visit_Now-6D28D9?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
-
-<a href="https://www.linkedin.com/in/shivampr1709/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://www.linkedin.com/in/shivampr1709/" target="_blank">
+<img src="https://img.shields.io/badge/💼_LinkedIn-Connect-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
 <a href="mailto:shivampr1709@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-7C3AED?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/📧_Email-Contact-7C3AED?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://github.com/shivam11191">
-<img src="https://img.shields.io/badge/GitHub-Profile-111827?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<br/>
 
-<br><br>
-
-![](https://komarev.com/ghpvc/?username=shivam11191\&style=for-the-badge\&color=7C3AED)
-
-![](https://img.shields.io/github/followers/shivam11191?style=for-the-badge\&color=6D28D9)
-
-![](https://img.shields.io/github/stars/shivam11191?style=for-the-badge\&color=4F46E5)
+![Profile Views](https://komarev.com/ghpvc/?username=shivam11191&style=for-the-badge&color=7C3AED)
+![GitHub Followers](https://img.shields.io/github/followers/shivam11191?style=for-the-badge&color=6D28D9&label=Followers)
+![GitHub Stars](https://img.shields.io/github/stars/shivam11191?style=for-the-badge&color=4F46E5&label=Stars)
 
 </div>
 
 ---
 
-# About
+## 🎯 About Me
 
-Software Engineer focused on building modern web applications, data-driven solutions, and scalable software products.
+I'm a **Software Engineer and Data Enthusiast** passionate about building **scalable web applications**, **data-driven solutions**, and **AI-powered products** that create real impact.
 
-My work combines **Frontend Development**, **Data Analytics**, **Software Engineering**, and **AI-powered applications** to transform ideas into practical solutions. I enjoy building products that improve user experience, automate workflows, and generate actionable insights from data.
+My expertise spans:
+- **Frontend Development** - Creating responsive, interactive user experiences
+- **Data Analytics** - Transforming raw data into actionable insights
+- **Software Engineering** - Building clean, maintainable code
+- **AI/ML Applications** - Leveraging AI to solve complex problems
 
-### Open To
+I thrive at the intersection of **engineering excellence**, **data intelligence**, and **product innovation**. Currently pursuing my **MCA** while building production-level projects.
 
-* Software Engineering Roles
-* Frontend Development Roles
-* Web Development Opportunities
-* Data Analyst Roles
-* Open Source Collaboration
-* AI & Data Projects
+### 🤝 Open To Opportunities
+
+<table>
+<tr>
+<td align="center">💼 Software Engineering</td>
+<td align="center">🎨 Frontend Development</td>
+<td align="center">📊 Data Analytics</td>
+</tr>
+<tr>
+<td align="center">🚀 Full-Stack Development</td>
+<td align="center">🤖 AI/ML Projects</td>
+<td align="center">🌐 Web Development</td>
+</tr>
+<tr>
+<td align="center">💡 Startups & Innovation</td>
+<td align="center">🤝 Open Source</td>
+<td align="center">📈 Product Engineering</td>
+</tr>
+</table>
 
 ---
 
-# Tech Stack
+## 🛠️ Technical Expertise
 
-## Languages
-
+### 💬 Languages & Core
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,javascript,html,css,mysql"/>
-
+  <img src="https://skillicons.dev/icons?i=python,javascript,html,css,java&perline=10"/>
 </p>
 
-## Frontend
-
+### 🎨 Frontend & UI
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap"/>
-
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,vscode&perline=10"/>
 </p>
 
-## Backend & Databases
-
+### ⚙️ Backend & Databases
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=flask,mysql"/>
-
+  <img src="https://skillicons.dev/icons?i=flask,mysql,sqlite&perline=10"/>
 </p>
 
-## Cloud, DevOps & Tooling
-
+### 🔧 Tools & Platform
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman"/>
-
-</p>
-
----
-
-# AI / ML Expertise
-
-| Domain                | Proficiency           | Details                                     |
-| --------------------- | --------------------- | ------------------------------------------- |
-| Data Analytics        | Intermediate          | Data Cleaning, Analysis, Dashboarding       |
-| Machine Learning      | Beginner–Intermediate | Model Fundamentals & Practical Applications |
-| Data Visualization    | Intermediate          | Charts, Reporting & Insight Generation      |
-| Python Development    | Intermediate          | Automation, APIs & Data Processing          |
-| AI Applications       | Intermediate          | AI-powered Web Solutions & Chatbots         |
-| Business Intelligence | Beginner–Intermediate | KPI Monitoring & Reporting                  |
-
----
-
-# Featured Projects
-
-<details>
-<summary><b>📚 Free Course Hub</b></summary>
-
-### Project Overview
-
-A centralized platform that aggregates completely free online courses, certifications, and job simulation programs for students and learners.
-
-| Metric      | Details                                      |
-| ----------- | -------------------------------------------- |
-| Stack       | HTML, CSS, JavaScript                        |
-| Scale       | Multi-category course platform               |
-| Performance | Optimized frontend rendering                 |
-| Security    | Secure client-side architecture              |
-| Impact      | Simplifies access to free learning resources |
-| Repository  | https://github.com/shivam11191               |
-
-### Professional Summary
-
-Designed and developed a responsive educational platform that helps students discover free learning opportunities. The project includes dynamic course management, featured course sections, modern UI design, responsive layouts, and structured content organization.
-
-</details>
-
-<br>
-
-<details>
-<summary><b>📊 Expense Analytics Dashboard</b></summary>
-
-### Project Overview
-
-A data analytics project focused on expense tracking, financial reporting, trend identification, and business insight generation.
-
-| Metric      | Details                                     |
-| ----------- | ------------------------------------------- |
-| Stack       | HTML, CSS, JavaScript, Data Analytics       |
-| Scale       | Financial Data Dashboard                    |
-| Performance | Interactive Analytics Views                 |
-| Security    | Structured Data Handling                    |
-| Impact      | Better Expense Monitoring & Decision Making |
-| Repository  | https://github.com/shivam11191              |
-
-### Professional Summary
-
-Built an analytics dashboard designed to transform raw expense data into actionable insights. Features include KPI monitoring, category analysis, trend visualization, budgeting insights, and decision-support reporting.
-
-</details>
-
----
-
-# Experience
-
-### Software Development & Data Analytics Projects
-
-**Independent Project Development**
-
-**2024 – Present**
-
-Building web applications, analytics dashboards, and software solutions while continuously improving engineering, analytics, and product development capabilities.
-
-#### Scope of Work
-
-* Full-stack application development
-* Frontend engineering
-* Data analytics workflows
-* Dashboard development
-* API integration
-* Database design
-* Product-focused development
-
-**Skills**
-
-`Python`
-`JavaScript`
-`Flask`
-`MySQL`
-`HTML`
-`CSS`
-`Git`
-`GitHub`
-`Data Analytics`
-
----
-
-# Achievements
-
-| Recognition          | Details                                                       |
-| -------------------- | ------------------------------------------------------------- |
-| Software Projects    | Developed multiple production-style applications              |
-| Data Analytics       | Built analytical dashboards and reporting solutions           |
-| Open Source Learning | Active GitHub contributor and learner                         |
-| MCA Student          | Pursuing advanced computer application studies                |
-| Continuous Learning  | Consistently building projects and improving technical skills |
-
----
-
-# Certifications
-
-## AWS
-
-![](https://img.shields.io/badge/To_Be_Added-6D28D9?style=for-the-badge)
-
-## Oracle
-
-![](https://img.shields.io/badge/To_Be_Added-7C3AED?style=for-the-badge)
-
-## NPTEL
-
-![](https://img.shields.io/badge/To_Be_Added-4F46E5?style=for-the-badge)
-
-## Cisco
-
-![](https://img.shields.io/badge/To_Be_Added-6366F1?style=for-the-badge)
-
----
-
-# Coding Profiles
-
-<p align="center">
-
-<a href="#">
-<img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
-
-<a href="#">
-<img src="https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
-</a>
-
-<a href="#">
-<img src="https://img.shields.io/badge/HackerRank-Profile-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black"/>
-</a>
-
-<a href="#">
-<img src="https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
-</a>
-
+  <img src="https://skillicons.dev/icons?i=git,github,postman,figma&perline=10"/>
 </p>
 
 ---
 
-# GitHub Analytics
+## 📈 Data Science & AI/ML Expertise
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=shivam11191&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=shivam11191&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivam11191&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
+| Domain | Level | Highlights |
+|--------|-------|-----------|
+| **Data Analytics** | Intermediate | Data Cleaning, Statistical Analysis, Dashboard Design, Business Intelligence |
+| **Data Visualization** | Intermediate | Interactive Charts, Reporting, Insight Generation, KPI Monitoring |
+| **Python Development** | Intermediate | Automation, API Development, Data Processing, Scripting |
+| **Machine Learning** | Beginner-Intermediate | Regression, Classification, Model Evaluation, Feature Engineering |
+| **AI Applications** | Intermediate | Chatbots, NLP, Intelligent Workflows, AI-powered Solutions |
+| **Business Intelligence** | Beginner-Intermediate | KPI Dashboards, Trend Analysis, Performance Reporting |
 
 ---
 
-# GitHub Trophies
+## 🚀 Featured Projects
 
-<div align="center">
+<table>
+<tr>
+<td width="50%">
 
-<img src="https://github-profile-trophy.vercel.app/?username=shivam11191&theme=tokyonight&no-frame=true&row=1&column=7"/>
+### 📚 Free Course Hub
+**Educational Platform for Discovering Free Learning**
 
-</div>
+**Tech Stack:** HTML | CSS | JavaScript | Responsive Design
+
+- 🎯 Centralized platform aggregating free courses & certifications
+- 📱 Fully responsive UI with modern design
+- 🔄 Dynamic course management system
+- ⚡ Optimized frontend performance
+- 🎓 Helps thousands access quality learning
+
+[🔗 View Repository](https://github.com/shivam11191/free-course-hub)
+
+</td>
+<td width="50%">
+
+### 📊 Expense Analytics Dashboard
+**Data-Driven Financial Intelligence Platform**
+
+**Tech Stack:** HTML | CSS | JavaScript | Data Analytics | Charts
+
+- 💰 Complete expense tracking system
+- 📈 Interactive analytics visualizations
+- 📊 KPI dashboards & trend analysis
+- 💡 Actionable financial insights
+- 🎯 Budget planning & forecasting
+
+[🔗 View Repository](https://github.com/shivam11191/expense-analytics)
+
+</td>
+</tr>
+</table>
 
 ---
 
-# Contribution Activity
+## 💼 Professional Experience
 
-<div align="center">
+### 🎯 Software Development & Data Analytics
+**Independent Project Development** | *2024 – Present*
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shivam11191&theme=tokyo-night&hide_border=true"/>
+Building production-level web applications and analytics solutions while continuously improving engineering practices and technical expertise.
 
-</div>
+**Key Achievements:**
+- ✅ Developed multiple full-stack applications
+- ✅ Built data analytics dashboards with actionable insights
+- ✅ Implemented RESTful APIs and database architectures
+- ✅ Created responsive, user-centric interfaces
+- ✅ Optimized performance and scalability
 
----
-
-# Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/shivam11191/shivam11191/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
-
----
-
-# Current Focus
-
-```yaml
-Learning:
-  - Advanced Data Analytics
-  - Machine Learning
-  - Software Engineering Best Practices
-  - Full Stack Development
-
-Building:
-  - Free Course Hub
-  - Expense Analytics Dashboard
-  - Portfolio Projects
-
-Exploring:
-  - AI Applications
-  - Data Visualization
-  - Product Engineering
-
-Open To:
-  - Software Engineering Roles
-  - Frontend Development Roles
-  - Data Analyst Opportunities
-  - Open Source Contributions
+**Scope of Work:**
+```
+├── Full-stack application development
+├── Frontend engineering & UI/UX
+├── Backend development & API design
+├── Database design & optimization
+├── Data analytics & visualization
+├── Cloud deployment & DevOps
+└── Product-focused development
 ```
 
 ---
 
-# Connect
+## 🏆 Achievements & Recognition
+
+| Achievement | Details |
+|-------------|---------|
+| 🎯 **Production Projects** | Developed multiple production-grade applications |
+| 📊 **Analytics Solutions** | Built dashboards impacting business decisions |
+| 💡 **Problem Solving** | Solved complex technical challenges |
+| 📚 **Continuous Learning** | Active contributor & lifelong learner |
+| 🎓 **Academic Excellence** | MCA Student pursuing advanced studies |
+| 🤝 **Community Engagement** | Open source contributor & mentor |
+
+---
+
+## 📜 Certifications & Credentials
+
+### Currently Pursuing
+- 🔄 **AWS Solutions Architect** (In Progress)
+- 🔄 **Google Cloud Associate** (In Progress)
+- 🔄 **Data Analytics Professional** (In Progress)
+
+### Coding Profiles
+<p align="center">
+  <a href="https://leetcode.com/shivam11191/" target="_blank">
+    <img src="https://img.shields.io/badge/🔗_LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  </a>
+  <a href="https://www.geeksforgeeks.org/" target="_blank">
+    <img src="https://img.shields.io/badge/🔗_GeeksforGeeks-Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+  </a>
+  <a href="https://www.hackerrank.com/" target="_blank">
+    <img src="https://img.shields.io/badge/🔗_HackerRank-Profile-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black"/>
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Analytics
 
 <div align="center">
 
+<img height="200em" src="https://github-readme-stats.vercel.app/api?username=shivam11191&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&text_color=fff&border_radius=10"/>
+
+<img height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=shivam11191&theme=tokyonight&hide_border=true&background=0d1117&border_radius=10"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivam11191&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&text_color=fff&border_radius=10"/>
+
+</div>
+
+---
+
+## 🥇 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=shivam11191&theme=tokyonight&no-frame=true&row=2&column=4&margin-w=15&margin-h=15"/>
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shivam11191&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=7c3aed&point=6d28d9&area=true&area_color=7c3aed&radius=10"/>
+
+</div>
+
+---
+
+## 🎯 Current Focus & Learning Path
+
+```yaml
+📚 Learning:
+  - Advanced Data Analytics & Business Intelligence
+  - Machine Learning & Deep Learning
+  - Cloud Architecture (AWS, GCP)
+  - Software Engineering Best Practices
+  - System Design & Scalability
+
+🛠️ Building:
+  - Advanced Analytics Dashboard
+  - AI-Powered Applications
+  - Full-Stack Web Projects
+  - Open Source Contributions
+
+🔬 Exploring:
+  - Natural Language Processing
+  - Predictive Analytics
+  - Microservices Architecture
+  - DevOps & Cloud Infrastructure
+  - Product Engineering
+
+✨ Interested In:
+  - Senior Software Engineering roles
+  - Data Science positions
+  - Full-stack opportunities
+  - Startup environments
+  - Open Source projects
+```
+
+---
+
+## 📞 Let's Connect!
+
+<div align="center">
+
+**I'm always open to discussions about tech, collaboration, and opportunities!**
+
 <a href="mailto:shivampr1709@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-shivampr1709%40gmail.com-6D28D9?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/📧_Email-shivampr1709@gmail.com-6D28D9?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<br><br>
-
-<a href="https://www.linkedin.com/in/shivampr1709/">
-<img src="https://img.shields.io/badge/LinkedIn-Shivam_Prakash-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://www.linkedin.com/in/shivampr1709/" target="_blank">
+  <img src="https://img.shields.io/badge/💼_LinkedIn-Shivam_Prakash-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<br><br>
-
-<a href="https://github.com/shivam11191">
-<img src="https://img.shields.io/badge/GitHub-shivam11191-111827?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://github.com/shivam11191" target="_blank">
+  <img src="https://img.shields.io/badge/🐙_GitHub-shivam11191-111827?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<br><br>
-
-<a href="https://shivam11191.github.io/portfolio/">
-<img src="https://img.shields.io/badge/Portfolio-Visit_Website-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
+<a href="https://shivam11191.github.io/portfolio/" target="_blank">
+  <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Website-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 </div>
@@ -357,7 +308,13 @@ Open To:
 
 <div align="center">
 
-*"Engineering impactful solutions through code, analytics, and continuous innovation."*
+## 💭 My Philosophy
+
+> *"Great software isn't just about code—it's about solving real problems, creating impact, and continuously learning to build better solutions."*
+
+<br/>
+
+### 🚀 Let's Build Something Amazing Together!
 
 </div>
 
