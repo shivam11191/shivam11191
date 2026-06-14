@@ -247,13 +247,9 @@ Building production-level web applications and analytics solutions while continu
 
 ---
 
-## 🐍 Contribution Snake
+## 🐍 Contribution Snake Animation
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/shivam11191/shivam11191/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
+<img width="100%" src="https://raw.githubusercontent.com/shivam11191/shivam11191/output/github-contribution-grid-snake-dark.svg"/>
 
 ---
 
