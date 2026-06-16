@@ -15,7 +15,6 @@
 [![Email](https://img.shields.io/badge/%F0%9F%93%A7_Email-Contact-7C3AED?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shivampr1709@gmail.com)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=shivam11191&style=for-the-badge&color=7C3AED)](https://github.com/shivam11191)
-[![GitHub Followers](https://img.shields.io/github/followers/shivam11191?style=for-the-badge&color=6D28D9&label=Followers)](https://github.com/shivam11191)
 
 </div>
 
