@@ -74,7 +74,7 @@ I enjoy turning complex problems into simple, usable interfaces — whether that
 - Interactive charts for spending trends
 - Budget planning and KPI summaries
 
-[🔗 View Repository](https://github.com/shivam11191/expense-analytics)
+[🔗 View Repository](https://github.com/shivam11191/Expense-Tracker)
 
 ---
 
@@ -92,11 +92,12 @@ I enjoy turning complex problems into simple, usable interfaces — whether that
 | Certificate | Issuer | Link |
 |---|---|---|
 | ✅ Web Development Excellence | Technology 2025 | — |
+| ✅ Google Data Analysis with Python | Google / Coursera | [View](https://coursera.org/share/8cc2bc5ba27d961efd3089b02c5f3a8e) |
 | ✅ Data Analytics | Cisco Networking Academy | [View](https://www.credly.com/badges/8983bf42-3ba4-496e-ac30f3ba5a95a2c7/public_url) |
 | ✅ Responsive Web Design | freeCodeCamp | [View](https://www.freecodecamp.org/certification/fcc-2238f653-d7c9-436e-b6f51477e8aca3be/responsive-web-design) |
-| ✅ Hello Python | Google / Coursera | [View](https://coursera.org/share/b4f3ea9bacce7c3eb14cc84372a904ec) |
 | ✅ Foundations of Prompt Engineering | AWS Skill Builder | — |
 | ✅ Data Analytics Job Simulation | Deloitte (Forage) | [View](https://www.theforage.com/completionertificates/9PBTqmSxAf6zZTseP/io9DzWKe3PTsiS6GG_9PBTqmSxAf6zZTseP_tCYDiEqDAb7aZHg32_1780254357643_completion_certificate.pdf) |
+| ✅ Hello Python | Google / Coursera | [View](https://coursera.org/share/b4f3ea9bacce7c3eb14cc84372a904ec) |
 
 ---
 
