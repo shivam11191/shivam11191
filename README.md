@@ -52,7 +52,7 @@ I enjoy turning complex problems into simple, usable interfaces — whether that
 
 ## 🚀 Projects
 
-### 📚 IPL Dashboard
+### 🏏 IPL Dashboard
 **An interactive Power BI report analyzing 18 seasons of IPL cricket data (2008–2025)**
 
 `Microsoft Excel` `Power BI`
