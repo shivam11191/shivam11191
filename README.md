@@ -52,6 +52,19 @@ I enjoy turning complex problems into simple, usable interfaces — whether that
 
 ## 🚀 Projects
 
+### 📚 IPL Dashboard
+**An interactive Power BI report analyzing 18 seasons of IPL cricket data (2008–2025)**
+
+`Microsoft Excel` `Power BI`
+
+- Built an interactive IPL Analysis Dashboard in Power BI, visualizing 18 seasons (2008–2025) of match data with dynamic season-wise filtering
+- Designed DAX measures to surface season-level insights — Orange Cap/Purple Cap leaders, top boundary hitters, and team standings — across 2 relational data tables
+- Delivered a polished, image-rich UI (team logos, player photos) demonstrating strong data modeling and dashboard design skills
+
+[🔗 View Repository](https://github.com/shivam11191/IPL-Dashboard.git)
+
+---
+
 ### 📚 Free Course Hub
 **A platform for discovering free online courses and certifications**
 
