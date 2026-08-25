@@ -52,6 +52,21 @@ I enjoy turning complex problems into simple, usable interfaces — whether that
 
 ## 🚀 Projects
 
+### 🤵‍♂️ Employee-Attrition-Analytics-Dashboard
+**HR Employee Attrition Analytics Dashboard**
+
+`Microsoft Excel` `Power BI` `DAX` `SQL Server` `SSMS`
+
+- An interactive HR analytics dashboard built using SQL Server and Power BI to analyze employee attrition, workforce risk, key attrition drivers, job-role trends, and compensation patterns across 1,470 employees.
+- Provides an executive-level view of workforce size, overall attrition, average tenure, income, attrition split, and department-level attrition.
+- Examines factors associated with higher employee attrition, including overtime, travel, job satisfaction, work-life balance, job roles, and employee risk indicators.
+- Analyzes income, tenure, job role, salary hikes, performance ratings, and differences between employees who stayed and those who left.
+
+[🔗 View Repository](https://github.com/shivam11191/IPL-Dashboard.git)
+
+---
+
+
 ### 🏏 IPL Dashboard
 **An interactive Power BI report analyzing 18 seasons of IPL cricket data (2008–2025)**
 
