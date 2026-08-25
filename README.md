@@ -62,7 +62,7 @@ I enjoy turning complex problems into simple, usable interfaces — whether that
 - Examines factors associated with higher employee attrition, including overtime, travel, job satisfaction, work-life balance, job roles, and employee risk indicators.
 - Analyzes income, tenure, job role, salary hikes, performance ratings, and differences between employees who stayed and those who left.
 
-[🔗 View Repository](https://github.com/shivam11191/IPL-Dashboard.git)
+[🔗 View Repository](https://github.com/shivam11191/Employee-Attrition-Analytics-Dashboard)
 
 ---
 
